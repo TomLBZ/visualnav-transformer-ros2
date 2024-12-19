@@ -1,0 +1,6 @@
+torch
+torchvision
+efficientnet_pytorch
+warmup_scheduler
+diffusers
+opencv-python
